@@ -131,7 +131,7 @@ header .menu{
     padding: 0 50px;
     box-sizing: border-box;
     overflow: auto;
-    justify-content: center;
+    justify-content: right;
 }
 .thumbnail::-webkit-scrollbar{
     width: 0;
